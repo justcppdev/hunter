@@ -10,9 +10,9 @@ hunter_add_version(
     VERSION
     "0.1.0"
     URL
-    "https://github.com/justcppdev/hash_table_using_separate_chaining/archive/v0.1.0.0.tar.gz"
+    "https://github.com/justcppdev/hash_table_using_separate_chaining/archive/0.1.0.1.tar.gz"
     SHA1
-    9e3413fa1996082bbffd16ffc3881205e573655c
+    33d655fb0e4aaf543a0d1c8e74ec3b56f8de6719
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
