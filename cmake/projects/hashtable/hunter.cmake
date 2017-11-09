@@ -8,6 +8,17 @@ hunter_add_version(
     PACKAGE_NAME
     hashtable
     VERSION
+    "0.2.0"
+    URL
+    "https://github.com/justcppdev/hash_table_using_separate_chaining/archive/v0.2.0.0.tar.gz"
+    SHA1
+    d47f3929fb6b9325b399b7b4c919b6e5f938be17
+)
+
+hunter_add_version(
+    PACKAGE_NAME
+    hashtable
+    VERSION
     "0.1.0"
     URL
     "https://github.com/justcppdev/hash_table_using_separate_chaining/archive/0.1.0.1.tar.gz"
