@@ -8,6 +8,17 @@ hunter_add_version(
     PACKAGE_NAME
     thread_safe_stack
     VERSION
+    "0.2.0"
+    URL
+    "https://github.com/justcppdev/thread_safe_stack/archive/v0.2.0.0.tar.gz"
+    SHA1
+    49c223a2437f72fff3b0b3accc5636db2508111e
+)
+
+hunter_add_version(
+    PACKAGE_NAME
+    thread_safe_stack
+    VERSION
     "0.1.0"
     URL
     "https://github.com/justcppdev/thread_safe_stack/archive/v0.1.0.0.tar.gz"
